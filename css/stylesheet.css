@@ -1,0 +1,24 @@
+/*stylesheet.css
+  CS Club UI Indy August 2025
+  This website showcases how to use fetch in JS to access an api.*/
+
+/* Make the error output stick out */
+
+body {
+    font-size: x-large;
+}
+
+#errorOutput {
+    font-weight: bold;
+    color: red;
+}
+
+#textOutput {
+    font-weight: bold;
+    color: green;
+}
+
+#imageOutput {
+    max-height: 300px;
+    object-fit: contain;
+}
